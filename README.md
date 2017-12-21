@@ -24,9 +24,9 @@
 
 ## Vista previa
 
-![GitHub Logo](/images/logo.png)
-![GitHub Logo](/images/logo.png)
-![GitHub Logo](/images/logo.png)
+![](https://raw.githubusercontent.com/NatalyCortez/try-bootstrap/master/assets/images/vistadesktop.JPG)
+![](https://github.com/NatalyCortez/try-bootstrap/blob/master/assets/images/vistamobile.JPG)
+![](https://raw.githubusercontent.com/NatalyCortez/try-bootstrap/master/assets/images/vistatablet.JPG)
 
 ## Fuente
 
